@@ -176,6 +176,6 @@ Because the completeness and eligibility checks are random, run several instance
 
 ## Team
 
-- Clément Hennaf
+- Clément Henaff
 - Lucas Dulhoste
 - Rayan Dellas
