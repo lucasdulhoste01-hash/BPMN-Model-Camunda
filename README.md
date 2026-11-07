@@ -2,7 +2,7 @@
 
 A BPMN model of a bank's credit approval process, built and executable on Camunda 8. A customer submits a credit request, the bank verifies the file, a scoring system grades it, and the process ends with an approval or a rejection, always communicated to the customer.
 
-> Artificial intelligence and Business intelligence / Lucas Dulhoste, Clément Hennaf, Rayan Dellas, 2026/2027
+> Artificial intelligence and Business intelligence / Lucas Dulhoste, Clément Henaff, Rayan Dellas, 2026/2027
 
 ## Resources
 
