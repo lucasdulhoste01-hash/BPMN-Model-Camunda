@@ -6,7 +6,6 @@ A BPMN model of a bank's credit approval process, built and executable on Camund
 
 ## Resources
 
-- Video presentation (how the process works): [Watch on YouTube](https://www.youtube.com/watch?v=VIDEO_ID)
 - Oral presentation slides: [docs/oral-presentation.pdf](docs/oral-presentation.pdf)
 - Textual description of the process: [docs/Credit_Application_Process.pdf](docs/Credit_Application_Process.pdf)
 
