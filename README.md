@@ -44,15 +44,15 @@ The system decides the clear cases, and a human keeps control of the ambiguous o
 
 Full BPMN model:
 
-![Full BPMN model](images/model-full.png)
+![Full BPMN model](images/Full BPMN model.png)
 
 Part 1 — Verification of the customer's file:
 
-![Part 1 of the BPMN model](images/model-part1.png)
+![Part 1 of the BPMN model](images/Part 1 of the BPMN model.png)
 
 Part 2 — Project evaluation and decision:
 
-![Part 2 of the BPMN model](images/model-part2.png)
+![Part 2 of the BPMN model](images/Part 2 of the BPMN model.png)
 
 ## Process in detail
 
